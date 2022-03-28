@@ -11,7 +11,6 @@
   inputs.src-tcl-master.ref   = "refs/heads/master";
   inputs.src-tcl-master.owner = "nim-lang";
   inputs.src-tcl-master.repo  = "tcl";
-  inputs.src-tcl-master.dir   = "";
   inputs.src-tcl-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
