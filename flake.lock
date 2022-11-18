@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334841,
-        "narHash": "sha256-EKMp3q2hyGVkFLh9mOoJ1SBtfcNE0LfWm28heUk9tsk=",
+        "lastModified": 1668749093,
+        "narHash": "sha256-PUSiewtdLI76c9+Xt1RZVIbtQVq4HvXgjgGRrCLsdzo=",
         "owner": "nim-nix-pkgs",
         "repo": "tcl",
-        "rev": "72ce4e21faf8b93f76bfad6c794a155ca7fe3593",
+        "rev": "90e84bedffa542663857aae084a3f9f2ea578cbb",
         "type": "github"
       },
       "original": {
